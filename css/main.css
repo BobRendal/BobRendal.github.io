@@ -14,6 +14,18 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
+.container {
+  width: 50%; /* 1170px on your site, 50% is for this example */
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.bg-wraf {
+  background: #f2f2f2;
+  padding: 10px 0; /* For clarity */
+}
+
 a {
     text-decoration: none;
     color: #999;
