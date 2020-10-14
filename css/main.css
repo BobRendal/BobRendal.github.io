@@ -30,12 +30,18 @@ nav ul li, footer ul li {
   font-size: 20px ;
 }
 
+.acceuilimage {
+  position:relative;
+  img{position:absolute;top:0;left:0;z-index:1}
+  div.acceuil{position:relative;z-index:5;color:white;}
+}
+
 .acceuil {
   /*background: #000000;*/
   padding: 100px 0; /* For clarity */
   margin: 0px;  
   /*color: #FFFFFF;*/
-  /*font-size: 20px ;*/
+  /*font-size: 20px ;*/  
 }
 
 a {
