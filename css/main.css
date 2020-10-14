@@ -31,6 +31,25 @@ nav ul li, footer ul li {
 }
 
 .acceuilimage {
+  position: relative;
+}
+
+.acceuiltext {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+}
+
+img { 
+  width: 100%;
+  height: auto;
+  opacity: 0.3;
+}
+
+/*
+.acceuilimage {
   position:relative;
   img{position:absolute;top:1;left:1;z-index:-1}
   div.acceuil{position:relative;color:white;}
@@ -43,6 +62,7 @@ nav ul li, footer ul li {
   /*color: #FFFFFF;*/
   /*font-size: 20px ;*/  
 }
+*/
 
 a {
    text-decoration: none; 
