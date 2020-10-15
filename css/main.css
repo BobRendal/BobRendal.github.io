@@ -13,6 +13,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+    text-decoration: none;
 }
 
 
@@ -20,7 +21,7 @@ nav ul li, footer ul li {
   width: 50%; /* 1170px on your site, 50% is for this example */
   padding: 0 50px;
   margin: 0 auto;
-  text-decoration: none
+  text-decoration: none;
 }
 
 .entete {
@@ -34,7 +35,7 @@ nav ul li, footer ul li {
 
 .acceuilimage {
   position: relative;
-  text-decoration: none
+  text-decoration: none;
 }
 
 .acceuiltext {
@@ -43,7 +44,7 @@ nav ul li, footer ul li {
   width: 100%;
   text-align: center;
   font-size: 18px;
-  text-decoration: none
+  text-decoration: none;
 }
 
 img { 
