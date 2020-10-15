@@ -69,6 +69,11 @@ a {
    text-decoration: none;  
    color: #FFF;
 }
+}
+a:before {
+ text-decoration: none; 
+   
+}
 a:hover {
  text-decoration: none; 
    
