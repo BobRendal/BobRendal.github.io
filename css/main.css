@@ -1,20 +1,18 @@
 body {
     margin: 0px 0;
     width: 100%;
-    text-decoration: none;
+
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    text-decoration: none;
     /*background-color: black;*/
 }
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-    text-decoration: none;
 }
 
 
@@ -22,7 +20,6 @@ nav ul li, footer ul li {
   width: 50%; /* 1170px on your site, 50% is for this example */
   padding: 0 50px;
   margin: 0 auto;
-  text-decoration: none;
 }
 
 .entete {
@@ -36,7 +33,6 @@ nav ul li, footer ul li {
 
 .acceuilimage {
   position: relative;
-  text-decoration: none;
 }
 
 .acceuiltext {
@@ -45,7 +41,6 @@ nav ul li, footer ul li {
   width: 100%;
   text-align: center;
   font-size: 18px;
-  text-decoration: none;
 }
 
 img { 
@@ -60,7 +55,7 @@ img {
   img{position:absolute;top:1;left:1;z-index:-1}
   div.acceuil{position:relative;color:white;}
 }
-
+text-decoration: none; 
 .acceuil {
   /*background: #000000;*/
   padding: 100px 0; /* For clarity */
@@ -71,10 +66,10 @@ img {
 */
 
 a {
-   text-decoration: none; 
+   text-decoration: none;  
    color: #FFFFFF;
 }
 a:hover {
-   text-decoration: none; 
+ text-decoration: none; 
    
 }
