@@ -1,13 +1,14 @@
 body {
     margin: 0px 0;
     width: 100%;
-    
+    text-decoration: none;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    text-decoration: none;
     /*background-color: black;*/
 }
 nav ul li, footer ul li {
