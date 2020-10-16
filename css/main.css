@@ -20,6 +20,7 @@ nav ul li, footer ul li {
   width: 50%; /* 1170px on your site, 50% is for this example */
   padding: 0 50px;
   margin: 0 auto;
+  text-decoration: none;
 }
 
 .entete {
