@@ -38,7 +38,7 @@ nav ul li, footer ul li {
 .acceuilimage {
   position: relative;
   text-decoration: none;
-  style="color:white";
+
 }
 
 .acceuiltext {
@@ -48,6 +48,7 @@ nav ul li, footer ul li {
   text-align: center;
   font-size: 18px;
   text-decoration: none;
+  color: #000000;
 }
 
 img { 
