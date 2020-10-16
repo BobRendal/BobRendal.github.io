@@ -33,6 +33,7 @@ nav ul li, footer ul li {
 
 .acceuilimage {
   position: relative;
+  text-decoration: none;
 }
 
 .acceuiltext {
