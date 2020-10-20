@@ -77,7 +77,7 @@ text-decoration: none;
 a {
    text-decoration: none;  
    /*color: #FFF;*/
-   color: inherit;  
+   color:white;  
 }
 }
 a:before {
